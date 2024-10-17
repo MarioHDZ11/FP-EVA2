@@ -28,9 +28,9 @@ public class EVA2_3_Potencia {
         System.out.println("Introduce la potencia:");
         expo = cap.nextInt();
 
-        int resu = 0;        
-        for(int i =1; i <= expo; i++){
-            resu = resu * expo;
+        int resu = 1;        
+        for(int i = 1 ; i <= expo; i++){
+            resu = resu * base;
     }
         System.out.println("El resultado es:" + resu);
     }
