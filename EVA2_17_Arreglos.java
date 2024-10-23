@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package eva_17_arreglos;
+package eva2_17_arreglos;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author invitado
  */
-public class EVA_17_Arreglos {
+public class EVA2_17_Arreglos {
 
     /**
      * @param args the command line arguments
